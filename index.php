@@ -51,6 +51,7 @@ class Pajamas {
   public function describe(){
 
     return "\n$this->owner's $this->color pajamas fit $this->fit.\n";
+    //testing comments below
     // return parent::describe() . " They also have buttons which are currently $this->button_state.";
     // $moose_PJs = new ButtonablePajamas("moose", "kind of loose", "red");
     // echo "\n";
